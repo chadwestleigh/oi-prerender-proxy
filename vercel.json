@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://operator-intelligence.lovable.app/$1"
+    }
+  ]
+}
