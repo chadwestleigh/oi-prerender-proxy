@@ -1,0 +1,6 @@
+{
+  "name": "operatorintelligence-prerender-proxy",
+  "version": "1.0.0",
+  "description": "Vercel reverse proxy with LovableHTML prerendering for operatorintelligence.ai",
+  "private": true
+}
