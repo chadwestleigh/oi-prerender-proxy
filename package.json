@@ -1,6 +1,7 @@
 {
   "name": "operatorintelligence-prerender-proxy",
-  "version": "1.0.0",
-  "description": "Vercel reverse proxy with LovableHTML prerendering for operatorintelligence.ai",
+  "version": "2.0.0",
+  "description": "Vercel reverse proxy with per-URL SEO metadata rewriting + LovableHTML prerendering for operatorintelligence.ai",
+  "type": "module",
   "private": true
 }
